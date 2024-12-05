@@ -1,0 +1,14 @@
+com\loja\reportapp\reportapp\dtos\ProdutoPorClienteDTO.class
+com\loja\reportapp\reportapp\utils\ConsumoMedioRowMapper.class
+com\loja\reportapp\reportapp\controllers\ReportController.class
+com\loja\reportapp\reportapp\ReportAppApplication.class
+com\loja\reportapp\reportapp\repositories\ReportRepository.class
+com\loja\reportapp\reportapp\config\OpenApiConfig.class
+com\loja\reportapp\reportapp\dtos\ConsumoMedioClienteDTO.class
+com\loja\reportapp\reportapp\PDF\FooterPageEvent.class
+com\loja\reportapp\reportapp\utils\ProdutoPorClienteRowMapper.class
+com\loja\reportapp\reportapp\PDF\ExportPDF.class
+com\loja\reportapp\reportapp\controllers\ExportReportController.class
+com\loja\reportapp\reportapp\dtos\ProdutoBaixoEstoqueDTO.class
+com\loja\reportapp\reportapp\utils\ProdutoBaixoEstoqueRowMapper.class
+com\loja\reportapp\reportapp\dtos\ProdutoMaisVendidoDTO.class

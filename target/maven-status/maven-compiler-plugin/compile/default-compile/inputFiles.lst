@@ -1,0 +1,14 @@
+C:\Users\eduar\Desktop\A3\reportApp\src\main\java\com\loja\reportapp\reportapp\config\OpenApiConfig.java
+C:\Users\eduar\Desktop\A3\reportApp\src\main\java\com\loja\reportapp\reportapp\controllers\ExportReportController.java
+C:\Users\eduar\Desktop\A3\reportApp\src\main\java\com\loja\reportapp\reportapp\controllers\ReportController.java
+C:\Users\eduar\Desktop\A3\reportApp\src\main\java\com\loja\reportapp\reportapp\dtos\ConsumoMedioClienteDTO.java
+C:\Users\eduar\Desktop\A3\reportApp\src\main\java\com\loja\reportapp\reportapp\dtos\ProdutoBaixoEstoqueDTO.java
+C:\Users\eduar\Desktop\A3\reportApp\src\main\java\com\loja\reportapp\reportapp\dtos\ProdutoMaisVendidoDTO.java
+C:\Users\eduar\Desktop\A3\reportApp\src\main\java\com\loja\reportapp\reportapp\dtos\ProdutoPorClienteDTO.java
+C:\Users\eduar\Desktop\A3\reportApp\src\main\java\com\loja\reportapp\reportapp\PDF\ExportPDF.java
+C:\Users\eduar\Desktop\A3\reportApp\src\main\java\com\loja\reportapp\reportapp\PDF\FooterPageEvent.java
+C:\Users\eduar\Desktop\A3\reportApp\src\main\java\com\loja\reportapp\reportapp\ReportAppApplication.java
+C:\Users\eduar\Desktop\A3\reportApp\src\main\java\com\loja\reportapp\reportapp\repositories\ReportRepository.java
+C:\Users\eduar\Desktop\A3\reportApp\src\main\java\com\loja\reportapp\reportapp\utils\ConsumoMedioRowMapper.java
+C:\Users\eduar\Desktop\A3\reportApp\src\main\java\com\loja\reportapp\reportapp\utils\ProdutoBaixoEstoqueRowMapper.java
+C:\Users\eduar\Desktop\A3\reportApp\src\main\java\com\loja\reportapp\reportapp\utils\ProdutoPorClienteRowMapper.java
